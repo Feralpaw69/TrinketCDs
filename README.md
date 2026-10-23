@@ -1,5 +1,7 @@
 # TrinketCDs (Fork)
 
+![Trinket cooldowns example](showcase/trinketcds-example.png)
+
 > **feralpaw edition** – further customised for WoW 3.3.5a (Frostmourne Rebuffed):
 > mouse-drag move mode, overlap protection, snapping, and new defaults (32 px icons; only Trinkets, Hands and Boots active).
 >
@@ -76,10 +78,6 @@ Separate font configuration tab with LibSharedMedia-3.0 support.
 ---
 
 ## Preview
-
-### Trinket cooldown example
-
-![Trinket cooldowns example](showcase/trinketcds-example.png)
 
 ### All items preview
 
