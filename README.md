@@ -77,6 +77,10 @@ Separate font configuration tab with LibSharedMedia-3.0 support.
 
 ## Preview
 
+### Trinket cooldown example
+
+![Trinket cooldowns example](showcase/trinketcds-example.png)
+
 ### All items preview
 
 ![Showcase all](/showcase/showcase_all.png)
